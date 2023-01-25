@@ -1,5 +1,4 @@
 # MoskalenkoViktoriia_ZPI_zp_01_PIIS
-Код знаходиться в App.js
-Використано модель toxicity.js
-Перевірка повідомлень на образливий контент
-Повідомлення сприймаються англійською мовою
+# TensorFlow.js
+# used pre-trained model toxicity.js
+# checking for offensive content in chat
